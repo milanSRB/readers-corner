@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Readers Corner React App
+
+This application is designed for readers to customize their reader habits and track their progress.
+
+It is also designed as an example of creating a project using the latest tech and tools in order to present
+
+the coders knowledge on architecting the structure of the project, it's components and use latest React hooks with Mobx/Redux pattern.
+
+Material UI will also be used mainly to have a representative and clean design with Google's material standards.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
